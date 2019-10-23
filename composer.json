@@ -14,10 +14,19 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.1",
+        "doctrine/dbal": "^2.9",
+        "illuminate/bus": "~5.8.0",
+        "illuminate/console": "~5.8.0",
+        "illuminate/contracts": "~5.8.0",
+        "illuminate/database": "~5.8.0",
+        "illuminate/events": "~5.8.0",
+        "illuminate/notifications": "~5.8.0",
+        "laravelcollective/html": "^5.8"
     },
-    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"develious\\schedulezz\\": "src/Schedulezz/"}
+        "psr-4": {"develious\\schedulezz\\": "src/"}
     }
 }
