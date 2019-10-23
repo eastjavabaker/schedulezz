@@ -1,0 +1,16 @@
+{
+    "name": "develious/schedulezz",
+    "type": "library",
+    "description": "Schedules anything you want !",
+    "keywords": ["scheduler","time","schedule"],
+    "homepage": "https://www.develio.us",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Invisiblecoder",
+            "email": "invisiblecoder@develio.us",
+            "homepage": "https://www.develio.us",
+            "role": "Developer"
+        }
+    ],
+}
