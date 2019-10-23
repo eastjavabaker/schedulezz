@@ -6,3 +6,4 @@ class Testing
     {
         return 'Hello World, Composer!';
     }
+}
